@@ -1,0 +1,4 @@
+poliastro==0.17.0
+astropy>=5.0
+deap==1.4.1
+numpy>=1.21.0
